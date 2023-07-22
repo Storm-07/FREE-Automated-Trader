@@ -1,0 +1,2 @@
+MsgBox, Buy!
+return
