@@ -1,5 +1,6 @@
 # FREE Tradingview Automated Trader 
-made by: Storm-07 <br />
+## made by: Storm-07 <br />
+
   I came up with a way to brute force automate trades on tradingview without signing up for a membership using macros and webhooks.
 There are a few services you may need to sign up for first if you don't already have accounts but do not worry because these are also free unless you'd like to make more than 50 trades per day. 
 
