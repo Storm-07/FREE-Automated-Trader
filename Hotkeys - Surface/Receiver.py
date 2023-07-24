@@ -12,7 +12,7 @@ def handle_webhook():
     email_body = payload.get('plain_text_body')
 
     # Determine which Python script to execute based on the email body
-    script_path = 'C:/Users/ewokr/OneDrive/Desktop/Hotkeys/BuyActivator.py' if 'buy' in email_body else 'C:/Users/ewokr/OneDrive/Desktop/Hotkeys/SellActivator.py'
+    script_path = '[PATH TO BuyActivator.py]/BuyActivator.py' if 'buy' in email_body else '[PATH TO SellActivator]/SellActivator.py'
 
     # Execute the Python script with the email body as an argument
     subprocess.Popen(['python', script_path, email_body])
