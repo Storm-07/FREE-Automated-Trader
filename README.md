@@ -39,5 +39,5 @@ Service #5: AutoHotKey
 4. test and deploy pipedream workflow
 5. open tradingview window to how your macro was setup and make sure your indicator is active and sends buy/sell alerts
 
-As mentioned before, pipedream only permits 100 inputs a day which is 50 trades so keep this in mind.
+As mentioned before, pipedream only permits 100 inputs a day which is 50 trades so keep this in mind (unless you pay for a better package which defeats the purpose of this project).
 Enjoy and good luck trading!
