@@ -5,18 +5,23 @@ made by: Storm-07 <br />
 There are a few services you may need to sign up for first if you don't already have accounts but do not worry because these are also free unless you'd like to make more than 50 trades per day. 
 
 Service #1: Tradingview
+
   This one is fairly self explanatory as it is the platform we will be using to make trades. IMPORTANT NOTE: For this automated trader, you must have a dedicated computer open for as long as you intend to make trades for. This computer will be the only one allowed to have a tradingview window open because free accounts are only allowed to have one window open at a time.
 
 Service #2: Visual Studio Code
+
   You will very likely have to have this code editor installed in order to edit your macros unless you share the same type of PC as me. Do not worry if you are not experienced with programming, a simple google search or youtube video will help with any issues setting up your macro.
 
 Service #3: Pipedream.com
+
   Ignoring the name, this site will act as the webhook that receives tradingview email alerts and sends a trigger to your server in order to activate the buying and selling macros.
 
 Service #4: ngrok
+
   This is another free pipeline service that will allow the pipedream webhook to connect with your flask server.
 
 Service #5: AutoHotKey
+
   You might not actually have to sign up for this but this will be the language(?) that we use to setup the macros. If you are not familiar with macros, they are simply a string of user inputs that execute different operations. For example we could set shift + G to left click on the corner of your screen.
 
 # STEPS FOR SETTING UP AUTOMATION
